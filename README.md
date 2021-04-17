@@ -1,5 +1,5 @@
 ### Hi there I'm Nandotama 👋
-![Gu19Vx5](https://user-images.githubusercontent.com/65104995/115117533-a29b4c80-9fd1-11eb-8b18-5b2dad326c4d.gif)
+![hello world](https://github.com/hayat-tamboli/hayat-tamboli/raw/master/hello-world.png)
 
 ### Desc
 - 🔭 I’m currently working on home
@@ -7,4 +7,31 @@
 - 👯 I’m looking to collaborate on discord
 - 💎 Making youtube videos.
 - 💬 Ask me about node.js or python
-- ⚡ Fun fact: I coded a discord bot. It got verified by discord.
+- ⚡ Fun fact I coded a discord bot. It got verified by discord.
+- ☕ I belive, a perfect cup of coffee can be the ultimate solution for any stress.
+- ✍️ Watching Anime and trying out latest design trends as hobbies/side hustles.
+- 🎓 Studying Computer Science, computer programming and Mathematics.
+
+##### Languages I use
+
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![Clojure](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=clojure)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+
+### Some of the technologies I have worked with
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
+![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
+![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
+![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
