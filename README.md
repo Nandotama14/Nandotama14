@@ -1,4 +1,4 @@
-![8b35fef55fba1a201c9c7a11d3ec3d64](https://user-images.githubusercontent.com/65104995/115117483-5fd97480-9fd1-11eb-8d00-6a131048313e.gif)
+![Gu19Vx5](https://user-images.githubusercontent.com/65104995/115117533-a29b4c80-9fd1-11eb-8b18-5b2dad326c4d.gif)
 
 ### Hi there I'm Nandotama 👋
 
