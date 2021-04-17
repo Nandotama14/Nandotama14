@@ -39,6 +39,7 @@
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
 ![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
+![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat&logo=Heroku&logoColor=1575F9)
 
 ### Github Stats
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=Nandotama14&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/samujjwaal)
