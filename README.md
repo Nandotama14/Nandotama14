@@ -1,12 +1,9 @@
 <h3 align="center"> Hi there 👋</h3>
-<br>
 
 [![Gmail Badge](https://img.shields.io/badge/-kasuma.ananda1998@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sdey9@uic.edu "Connect via Email")
 [![Twitter Badge](https://img.shields.io/badge/-@ananda1998-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=samujjwaal "Follow on Twitter")
 
-<div align="center">
 <img src="https://github.com/hayat-tamboli/hayat-tamboli/raw/master/hello-world.png"/>
-<br>
 
 ### Desc
 - 🔭 I’m currently working on home
