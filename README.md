@@ -5,6 +5,11 @@
 
 <img src="https://github.com/hayat-tamboli/hayat-tamboli/raw/master/hello-world.png"/>
 
+```html
+<Quick Introduction>
+Eyyoo! Code addict, with life lessons :).
+```
+
 ## Desc
 - 🔭 I’m currently working on home
 - 🌱 I’m currently learning everything 🤣
