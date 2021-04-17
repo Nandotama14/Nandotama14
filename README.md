@@ -1,4 +1,6 @@
 ### Hi there I'm Nandotama 👋
+[![Gmail Badge](https://img.shields.io/badge/-kasuma.ananda1998@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sdey9@uic.edu "Connect via Email")
+[![Twitter Badge](https://img.shields.io/badge/-@ananda1998-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=samujjwaal "Follow on Twitter")
 ![hello world](https://github.com/hayat-tamboli/hayat-tamboli/raw/master/hello-world.png)
 
 ### Desc
@@ -12,7 +14,7 @@
 - ✍️ Watching Anime and trying out latest design trends as hobbies/side hustles.
 - 🎓 Studying Computer Science, computer programming and Mathematics.
 
-##### Languages I use
+### Languages I use
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
@@ -35,3 +37,6 @@
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
 ![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
+
+### Github Stats
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=Nandotama14&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/samujjwaal)
